@@ -1,4 +1,5 @@
 link:https://sreyachaithu.github.io/Calculator/
+
 description:
 * Features
 
@@ -14,8 +15,8 @@ description:
 
 * Technologies Used
 
-    HTML5
+    HTML
 
-    CSS3
+    CSS
 
     JavaScript
